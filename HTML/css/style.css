@@ -1,0 +1,50 @@
+h1{
+    font-family: Bhumi;
+    src: url(Doto-VariableFont_ROND\,wght.ttf);
+}
+h1{
+        color: ghostwhite;
+        background-color:black 
+    }
+    #tr1{
+        color: gold;
+        background-color: palevioletred;
+    }
+    #tr2{
+        color:black;
+        background-color: bisque;
+        
+    }
+
+    #tr3{
+        color:pink;
+        background-color: whitesmoke;
+        
+    }
+    #tr4{
+        color:rgb(80, 17, 17);
+        background-color:greenyellow;
+        
+    }
+    .mahek{
+        color: lightslategrey;
+        background-color:palevioletred;
+    }
+    h2{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        text-align: left;
+    }
+    #p2{
+        color: darkolivegreen;
+        background-color: black;
+        text-align: center;
+        font-size: 30px;
+        font-weight: bolder;
+        line-height: 20px;
+        letter-spacing: 0px;
+        word-spacing: normal;
+        text-decoration:underline;
+        font-style:normal;
+        text-transform:capitalize;
+        text-indent: 100px;
+}   
